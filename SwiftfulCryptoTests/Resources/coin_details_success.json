@@ -1,0 +1,16 @@
+{
+    "id": "bitcoin",
+    "symbol": "btc",
+    "name": "Bitcoin",
+    "block_time_in_minutes": 10,
+    "hashing_algorithm": "SHA-256",
+    "description": {
+        "en": "Bitcoin is the first successful internet money based on peer-to-peer technology."
+    },
+    "links": {
+        "homepage": [
+            "http://www.bitcoin.org",
+        ],
+        "subreddit_url": "https://www.reddit.com/r/Bitcoin/"
+    }
+}
