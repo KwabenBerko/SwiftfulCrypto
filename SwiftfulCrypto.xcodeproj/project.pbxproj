@@ -96,6 +96,7 @@
 		1336FFBC2B4C551200FFC74C /* RealGetMarketInfoTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1336FFBB2B4C551200FFC74C /* RealGetMarketInfoTests.swift */; };
 		1336FFBE2B4C556200FFC74C /* FakeMarketRepository.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1336FFBD2B4C556200FFC74C /* FakeMarketRepository.swift */; };
 		138C51012B58AE9C0095410A /* NetworkingManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 138C51002B58AE9C0095410A /* NetworkingManager.swift */; };
+		138C51202B61C2F50095410A /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 138C511F2B61C2F50095410A /* README.md */; };
 		13D36A2A2B4E12E2005E6E30 /* CoinDetailFactory.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1336FF972B4B244C00FFC74C /* CoinDetailFactory.swift */; };
 		13D36A2B2B4E12E6005E6E30 /* CoinFactory.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1336FF4F2B484D2400FFC74C /* CoinFactory.swift */; };
 		13D36A2C2B4E12EE005E6E30 /* MarketInfoFactory.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1336FF432B478AD300FFC74C /* MarketInfoFactory.swift */; };
@@ -224,6 +225,7 @@
 		1336FFBB2B4C551200FFC74C /* RealGetMarketInfoTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RealGetMarketInfoTests.swift; sourceTree = "<group>"; };
 		1336FFBD2B4C556200FFC74C /* FakeMarketRepository.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FakeMarketRepository.swift; sourceTree = "<group>"; };
 		138C51002B58AE9C0095410A /* NetworkingManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NetworkingManager.swift; sourceTree = "<group>"; };
+		138C511F2B61C2F50095410A /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		13D36A2F2B50599F005E6E30 /* StatisticFactory.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StatisticFactory.swift; sourceTree = "<group>"; };
 		13EE5B532B51B40E00D8C63D /* TestSubscriber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestSubscriber.swift; sourceTree = "<group>"; };
 		13F7FC9A2B45AF7000956F41 /* SyncableRepository.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SyncableRepository.swift; sourceTree = "<group>"; };
@@ -265,6 +267,7 @@
 		132640F22B3F9383009DE6A5 = {
 			isa = PBXGroup;
 			children = (
+				138C511F2B61C2F50095410A /* README.md */,
 				132640FD2B3F9383009DE6A5 /* SwiftfulCrypto */,
 				132641AB2B442B17009DE6A5 /* SwiftfulCryptoTests */,
 				132640FC2B3F9383009DE6A5 /* Products */,
@@ -1066,6 +1069,7 @@
 			files = (
 				132641712B422265009DE6A5 /* LaunchScreen.storyboard in Resources */,
 				132641062B3F9384009DE6A5 /* Preview Assets.xcassets in Resources */,
+				138C51202B61C2F50095410A /* README.md in Resources */,
 				1326410D2B3F94AF009DE6A5 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
