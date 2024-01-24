@@ -1,5 +1,5 @@
 //
-//  CoinModel.swift
+//  Coin.swift
 //  SwiftfulCrypto
 //
 //  Created by Kwabena Berko on 1/2/24.

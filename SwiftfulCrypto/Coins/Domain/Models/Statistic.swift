@@ -1,5 +1,5 @@
 //
-//  StatisticModel.swift
+//  Statistic.swift
 //  SwiftfulCrypto
 //
 //  Created by Kwabena Berko on 12/30/23.

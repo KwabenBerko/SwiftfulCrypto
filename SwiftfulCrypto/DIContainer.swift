@@ -1,5 +1,5 @@
 //
-//  Container.swift
+//  DIContainer.swift
 //  SwiftfulCrypto
 //
 //  Created by Kwabena Berko on 1/1/24.

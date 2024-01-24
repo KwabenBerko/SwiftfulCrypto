@@ -1,5 +1,5 @@
 //
-//  RealGetCoinDetailWithStatistics.swift
+//  RealGetCoinDetail.swift
 //  SwiftfulCrypto
 //
 //  Created by Kwabena Berko on 1/6/24.

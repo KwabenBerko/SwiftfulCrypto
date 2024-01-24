@@ -1,5 +1,5 @@
 //
-//  GetCoinDetail.swift
+//  GetCoinInfo.swift
 //  SwiftfulCrypto
 //
 //  Created by Kwabena Berko on 1/2/24.

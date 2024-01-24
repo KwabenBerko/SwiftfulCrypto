@@ -1,5 +1,5 @@
 //
-//  CoinDetailFactory.swift
+//  CoinInfoFactory.swift
 //  SwiftfulCryptoTests
 //
 //  Created by Kwabena Berko on 1/5/24.
